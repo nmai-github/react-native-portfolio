@@ -1,0 +1,1 @@
+export const baseUrl = 'http://aaronmichael.herokuapp.com/nucamp-data/';
